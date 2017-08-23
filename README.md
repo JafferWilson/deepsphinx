@@ -15,6 +15,10 @@ layer, similar to this:
 
 ![model](images/model.jpg)
 
+Required
+--------
+
+Install the OpenFST ---> [OpenFST Download](http://www.openfst.org/twiki/bin/view/FST/WebHome)
 
 Data format
 -----------
